@@ -333,5 +333,5 @@ class App {
 }
 
 const app = new App();
-alert('Click at the map and fill in the form to record your workout');
+alert('Click the map and fill in the form to record your workout');
 
